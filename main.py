@@ -20,12 +20,3 @@ import seaborn as sns
 import matplotlib as plt
 
 print("Hello World")
-#this is a new line
-# you have to add this
-
-list
-list
-
-list
-list
-import xml as x
