@@ -15,4 +15,10 @@ if __name__ == '__main__':
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 import numpy as np
+import pandas as np
 import seaborn as sns
+import matplotlib as plt
+
+print("Hello World")
+#this is a new line
+# you have to add this
